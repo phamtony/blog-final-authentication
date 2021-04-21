@@ -1,1 +1,3 @@
-Blog made from Flask, with authentication, routing, pw hashing, forms, database
+# Blog 
+## Made with Flask
+### with authentication, CRUD, Users, routing, PW hashing, forms, database
